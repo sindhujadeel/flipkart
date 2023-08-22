@@ -1,0 +1,107 @@
+.products {
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid white;
+    padding: 20px;
+    box-sizing: border-box;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 1px 2px 0px;
+  }
+  img {
+    width: 80px;
+  }
+  .product {
+    width: 100px;
+    text-align: center;
+  }
+  .product p:hover {
+    color: blue;
+  }
+  .btn {
+    padding: 10px 20px;
+    background-color: #2874f0;
+    color: white;
+  }
+  .topoffer {
+    padding-top: 100px;
+  }
+  .top {
+    padding: 20px;
+    text-align: center;
+  }
+  h4 {
+    text-align: center;
+  }
+  
+  .image1 {
+    width: 180px;
+  }
+  h2 {
+    width: 150px;
+  }
+  nav {
+    background-color: #2874f0;
+  }
+  nav ul {
+    display: flex;
+    width: 80vw;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  nav select {
+    width: 55px;
+    background-color: #2874f0;
+    border: none;
+    color: white;
+  }
+  nav a {
+    color: white;
+  }
+  nav li {
+    color: white;
+  }
+  li span {
+    color: yellow;
+  }
+  .logo {
+    display: block;
+  }
+  .add {
+    width: 100%;
+  }
+  .add2 {
+    height: 300px;
+    width: 200px;
+  }
+  .image2 {
+    width: 500px;
+  }
+  .image3 {
+    width: 400px;
+  }
+  h4 {
+    text-align: left;
+    color: rgb(119, 115, 115);
+  }
+  .footer {
+    display: flex;
+    justify-content: space-around;
+  
+    font-size: smaller;
+  }
+  .para1 {
+    font-size: smaller;
+  }
+  .para {
+    color: gray;
+    font-size: smaller;
+  }
+  .bottom {
+    display: flex;
+    justify-content: space-around;
+  }
+  .hello {
+    background-color: #172337;
+    color:white;
+  }
